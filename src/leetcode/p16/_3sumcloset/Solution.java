@@ -1,14 +1,7 @@
 package leetcode.p16._3sumcloset;
 
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
-import javax.swing.text.Highlighter;
-
-import jdk.swing.interop.SwingInterOpUtils;
 
 class Solution {
 
